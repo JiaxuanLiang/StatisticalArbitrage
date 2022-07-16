@@ -10,7 +10,7 @@ Change Activity:  7/16/22
 --------------------------------------------------
 """
 import numpy as np
-from BSsetting.Models import StockModels
+from BlackScholesSetting.Models import StockModels
 
 
 class Short:
